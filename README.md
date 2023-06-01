@@ -1,4 +1,4 @@
-# Li_Mn_Ni_O_crystal_images
+# Li_Mn_Ni_O_crystal_images ( some of the code have not been updated yet, stay tune!)
 In this repository, we provide code of using the crystal images of Li_Mn_Ni_O materials to predict their energy above convex hulls and band gap energies, 
 and to classfiy their crystal systems and crystal space groups.
 
